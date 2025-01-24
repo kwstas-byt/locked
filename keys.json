@@ -1,6 +1,6 @@
 {
-    "nganga123412dd1d": 500,        // 50 seconds (Test Entry)
-    "R7y6Xq8gWvP2e1bH": 3960,      // 1 hour + 30 minutes = 1.5 hours = 3600 seconds + 30 * 60 = 3960 seconds
+    "nganga123412dd1d": 500,        
+    "R7y6Xq8gWvP2e1bH": 3960,      
     "o3Hh1Ks9FmL5tUw0": 3960,
     "J4eFz5D3Vr9K2xSb": 3960,
     "G6zUqB0A1eY8bWnS": 3960,
@@ -10,7 +10,7 @@
     "N8TjY5mQ2V6bJ4eX": 3960,
     "F3Zb7L2PqV5U1eSt": 3960,
     "U2aM3WvP7F5eJ1Gd": 3960,
-    "F6hT8b5P1v2WmQnY": 11880,     // 3 hours
+    "F6hT8b5P1v2WmQnY": 11880,    
     "L3J9qR5D8zX1bF0T": 11880,
     "Z4H1aG7B9vM0rN8C": 11880,
     "V5T3pJ9Wb7L6yXkQ": 11880,
@@ -20,7 +20,7 @@
     "T6A5qP7r1G8Jv9bW": 11880,
     "N4B3T1zJ8P5qC0X": 11880,
     "W9R3tP6U1Y8F7jG": 11880,
-    "D2J9V4rA7P1M0Kq": 39600,     // 10 hours
+    "D2J9V4rA7P1M0Kq": 39600,   
     "B0X1V5mL2F3P7Jr": 39600,
     "K1H2L3b7P9W0Xg8F": 39600,
     "A4X5M9P3R2Y7t0F6": 39600,
@@ -30,7 +30,7 @@
     "K9J1T2A6F7P5R8X0": 39600,
     "R3P7Y2W9F4X0A1V6": 39600,
     "T5F1P6A2V9K3R8W0": 39600,
-    "M3X0V1T2J4F5P7W": 86400,     // 24 hours
+    "M3X0V1T2J4F5P7W": 86400,    
     "N9Y4F7R2J1K3X5P0": 86400,
     "Z1F6P3V0T7A2R9W": 86400,
     "P2F3Y0R9V4X1A6J": 86400,
@@ -40,7 +40,7 @@
     "Y1J9R3P5V2A8X0T": 86400,
     "P2T0F5A6R3X1V7Y": 86400,
     "J3R0Y2V5P1T4A9F": 86400,
-    "W9P3A2Y1R5F4J6V": 259200,    // 3 days
+    "W9P3A2Y1R5F4J6V": 259200,   
     "C2K5T1V7A9R6P0J": 259200,
     "L3X1F0Y9R5P4V2J": 259200,
     "M7A1T3V2F5J9R6P": 259200,
@@ -50,7 +50,7 @@
     "P2A6R1X5F9T7V0J": 259200,
     "V3Y9P1A2F6T5R7J": 259200,
     "X4F5Y2R1P3V9T7J": 259200,
-    "V6P2F5Y1T9A3R7J": 86400000,  // 1 day
+    "V6P2F5Y1T9A3R7J": 86400000,  
     "J1R2Y5A8T9V4F0P": 86400000,
     "P3R2V5T1J7F0A9Y": 86400000,
     "F4P1T9R2Y5V3J7A": 86400000,
@@ -76,8 +76,8 @@
     "J8T6P5F1Y2V3R7A": 86400000,
     "W9F7T5P1A3Y2V6R": 86400000,
     "E7V3T9A2R1P5F6Y": 86400000,
-    "test_1": 300,              // 5 minutes test entry
-    "test_2": 180,              // 3 minutes test entry
-    "test_3": 60,               // 1 minute test entry
-    "test_4": 30                // 30 seconds test entry
+    "test_1": 300,             
+    "test_2": 180,          
+    "test_3": 60,         
+    "test_4": 30            
 }
